@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @rawadthegreat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, Rawad Hasan
+#### Data Analysis and Electronics
+I'm Rawad Hasan. I'm a 2nd year aerospace engineering student at Cal State Long Beach. I enjoy analyzing data using Python and MATLAB. I also like to tinker with electronic parts.
 
-<!---
-rawadthegreat/rawadthegreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: Python / MATLAB / C / Arduino 
+
+- 📫 How to reach me: rawadhasan17@gmail.com 
+- 😄 Pronouns: he/him/his 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rawad-hasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rawadhasan2)  
+
