@@ -1,4 +1,4 @@
-### Hi there 👋, Rawad Hasan
+### Hi there!
 #### Data Analysis and Electronics
 I'm Rawad Hasan. I'm a 2nd year aerospace engineering student at Cal State Long Beach. I enjoy analyzing data using Python and MATLAB. I also like to tinker with electronic parts.
 
